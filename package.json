@@ -20,7 +20,7 @@
     "@sveltejs/adapter-auto": "^4.0.0",
     "@sveltejs/kit": "^2.16.0",
     "@sveltejs/vite-plugin-svelte": "^5.0.0",
-    "@trigger.dev/build": "4.0.0-v4-beta.15",
+    "@trigger.dev/build": "4.0.0-v4-beta.16",
     "eslint": "^9.18.0",
     "eslint-config-prettier": "^10.0.1",
     "eslint-plugin-svelte": "^3.0.0",
@@ -39,6 +39,6 @@
     ]
   },
   "dependencies": {
-    "@trigger.dev/sdk": "4.0.0-v4-beta.15"
+    "@trigger.dev/sdk": "4.0.0-v4-beta.16"
   }
 }
